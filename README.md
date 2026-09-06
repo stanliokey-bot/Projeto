@@ -1,2 +1,2 @@
-# Projeto-ter-a-
+# Projeto
 Atividades para A2
