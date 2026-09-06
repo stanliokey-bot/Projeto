@@ -1,5 +1,5 @@
 # Projeto
-Atividades para A2
+Atividades para A2 + Exercício em C++
 # Projeto Design Profissional - Trilha GitHub Foundations
 
 Este repositório foi criado como parte do trabalho prático da disciplina de terça
@@ -17,3 +17,9 @@ Aplicar na prática os conceitos aprendidos durante a trilha **GitHub Foundation
 ---
 
 - Atualização enviada através de uma branch secundária para teste de Pull Request[cite: 1].
+
+## Exercícios Práticos em C++
+
+Como parte das atividades práticas da disciplina, foram desenvolvidos e versionados algoritmos em C++ focados em lógica de programação e resolução de problemas:
+
+* **Consumo de Combustível (`exercicios.cpp`):** Calcula o consumo médio do veículo (km/L), o custo total da viagem (R$) e o custo médio por quilômetro rodado a partir dos dados de distância, combustível consumido e preço do litro.
