@@ -15,4 +15,4 @@ Aplicar na prática os conceitos aprendidos durante a trilha **GitHub Foundation
 - Abertura e conclusão de Pull Request (Merge).
 
 ---
-*Desenvolvido para fins acadêmicos e composição de portfólio profissional.*
+
