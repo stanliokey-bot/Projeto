@@ -1,0 +1,28 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+    double distancia, combustivel, precoLitro;
+
+    cout << "--- 1. CONSUMO MEDIO DE COMBUSTIVEL ---" << endl;
+    cout << "Digite a distancia total percorrida (km): ";
+    cin >> distancia;
+    cout << "Digite a quantidade de combustivel consumida (L): ";
+    cin >> combustivel;
+    cout << "Digite o preco do litro do combustivel (R$): ";
+    cin >> precoLitro;
+
+    double consumoMedio = distancia / combustivel;
+    double custoTotal = combustivel * precoLitro;
+    double custoPorKm = custoTotal / distancia;
+
+    cout << fixed << setprecision(2);
+    cout << "\n--- RESULTADOS ---" << endl;
+    cout << "Consumo medio: " << consumoMedio << " km/L" << endl;
+    cout << "Custo total da viagem: R$ " << custoTotal << endl;
+    cout << "Custo medio por km: R$ " << custoPorKm << endl;
+
+    return 0;
+}
