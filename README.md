@@ -16,3 +16,4 @@ Aplicar na prática os conceitos aprendidos durante a trilha **GitHub Foundation
 
 ---
 
+- Atualização enviada através de uma branch secundária para teste de Pull Request[cite: 1].
